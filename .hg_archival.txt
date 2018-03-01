@@ -1,0 +1,5 @@
+repo: 7815f1cc491c2e6720ebf8f2c739397c5bb0cf1e
+node: 6272f9ccc44a053841b67a57c1251098e7270888
+branch: default
+latesttag: lupa_1.0
+latesttagdistance: 5
